@@ -5,5 +5,3 @@
 
 
 #  Btech College Projects Computer Science and Engg.
-
-### SE Project was Submited in June
